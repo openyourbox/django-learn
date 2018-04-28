@@ -1,4 +1,4 @@
 # django-learn
 I learn django and make notes
 
-it is not the first time that i use git
+it is the second time that i use git
